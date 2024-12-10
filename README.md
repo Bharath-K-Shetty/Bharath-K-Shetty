@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharath Kumar Shetty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on [Cikista.ai](https://www.linkedin.com/in/cikitsa-ai-001014312/)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+- 🔭 I’m currently working on Cikitsa.ai
 
 - 🌱 I’m currently learning **MERN,TypeScript**
 
