@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN,TypeScript**
 
-- 👯 I’m looking to collaborate on **OpenMRS**
+- 👯 Contributing to **OpenMRS**
 
 - 💬 Ask me about **react,js,ts,mern**
 
